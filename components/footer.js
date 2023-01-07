@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import styled from 'styled-components'
 import style from '../styles/Home.module.css'
 
 const Subscription = styled.div`
@@ -66,9 +66,6 @@ height:20px;
 list-style: none;
 margin-top:20px;
 `
-
-
-
 
 export default function Footer() {
 

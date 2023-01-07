@@ -5,7 +5,7 @@ export default function Header() {
     return (
         <>
         <div className={style.header}>
-            <img src="./logo.png" />
+            <img src="./logo.png" style={{width:"20%"}}/>
             <h1>SkyTrain Stations</h1>
         </div>
        </> 
