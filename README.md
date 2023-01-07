@@ -25,6 +25,8 @@ npm install leaflet react-leaflet
 
 npm install leaflet-defaulticon-compatibility --save
 
+npm install --save styled-components
+
 
 ## Learn More
 
