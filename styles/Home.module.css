@@ -6,6 +6,8 @@
   padding: 6rem;
   min-height: 100vh;
   background-color: #FFFFFF;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #183152;
 }
 
 .description {
@@ -285,5 +287,16 @@
 }
 
 .header {
-  width:100%;
+  width: 100%;
+}
+
+.content {
+  margin: 40px;
+  line-height: 30px;
+  align-items: flex-start;
+}
+
+.list {
+  margin-left: 30px;
+  line-height: 20px;
 }

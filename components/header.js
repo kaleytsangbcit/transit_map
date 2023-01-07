@@ -6,7 +6,7 @@ export default function Header() {
         <>
         <div className={style.header}>
             <img src="./logo.png" />
-            <h1>Expo Line</h1>
+            <h1>SkyTrain Stations</h1>
         </div>
        </> 
     )
