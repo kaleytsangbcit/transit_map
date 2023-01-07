@@ -78,7 +78,7 @@ export default function Footer() {
             <Subscription>
                 <Content>
                     Subscribe to the <b>TransLink Monthly Updates</b> newsletter to receive the latest news, projects, 
-                    transit service changes and other initiatives. You may unsubscribe at any time.
+                    transit service changes and other initiatives. <em>You may unsubscribe at any time.</em>
                 </Content>
 
                 <TypeBox placeholder="First Name"/>
