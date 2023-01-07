@@ -67,6 +67,10 @@ list-style: none;
 margin-top:20px;
 `
 
+const Contact = styled.div`
+margin-top:20px;
+`
+
 export default function Footer() {
 
     return (
@@ -105,9 +109,12 @@ export default function Footer() {
 
                 <Column>
                     <Heading>Contact Us</Heading>
-                        <p>Call us at 604.953.3333</p>
-                        <br/>
-                        <p><a href="https://www.google.com/maps/place/TransLink/@49.2247324,-122.8939064,17z/data=!3m1!4b1!4m5!3m4!1s0x5486765906294161:0x8be44a756edffc2f!8m2!3d49.2247289!4d-122.8917178">400-287 Nelson's Ct., New Westminster, BC V3L0E7</a></p>
+                        <Contact>
+                            <p>Call us at 604.953.3333</p>
+                            <br/>
+                            <p><a href="https://www.google.com/maps/place/TransLink/@49.2247324,-122.8939064,17z/data=!3m1!4b1!4m5!3m4!1s0x5486765906294161:0x8be44a756edffc2f!8m2!3d49.2247289!4d-122.8917178">
+                                400-287 Nelson's Ct., New Westminster, BC V3L0E7</a></p>
+                        </Contact>
                 </Column>
 
             </FooterCont>
